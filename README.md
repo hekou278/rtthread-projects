@@ -1,2 +1,3 @@
 # rtthread-projects
 rtthread实验课综合项目，对温度、光照数据进行检测、记录、显示，并通过esp8266模块上传到TCP客户端
+由于上传限制，没有包含stm32标准库文件以及rtthread操作系统相关库文件，仅上传了main函数以及编写的驱动文件
