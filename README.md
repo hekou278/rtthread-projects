@@ -1,2 +1,2 @@
 # rtthread-projects
-大三嵌入式实验课，有关rtthread操作系统的项目整理
+rtthread实验课综合项目，对温度、光照数据进行检测、记录、显示，并通过esp8266模块上传到TCP客户端
